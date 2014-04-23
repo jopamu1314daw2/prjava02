@@ -16,6 +16,7 @@ System.out.println("Nom de l'usuari: " + System.getProperty("user.name")); Syste
 System.out.println("Arquitecura OS: " + System.getProperty("os.arch"));
 System.out.println("Creació d'una branca del projecte prjava02");
 System.out.println("Afegint mes codi a la branca00 del projecte 02");
+System.out.println("Afegint codi a la branca01 del projecte prjava02");
 }
 catch (IOException e) { e.printStackTrace();
 }}}
